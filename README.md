@@ -25,4 +25,5 @@ http://www.zhimengzhe.com/Javascriptjiaocheng/397024.html
 
 ## TODO
 
-* 增加Koa作为后台服务，暴露接口用于调用
+* ~~增加Koa作为后台服务，暴露接口用于调用~~ (妈个鸡，这破站如果用headless模式还抓不出数据)
+* 这东西当个玩具先留着吧,linux服务器上也不方便跑，蛋疼 (´；ω；｀)
