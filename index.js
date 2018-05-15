@@ -3,7 +3,6 @@ const config = require('./config');
 
 (async () => {
   const browser = await puppeteer.launch({
-    executablePath: './chromium/chrome.exe',
     headless: false
   });
   const page = await browser.newPage();
